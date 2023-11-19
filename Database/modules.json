@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "M101",
+        "name": "Week 0",
+        "description": "Getting Started",
+        "course": "cs5010"
+    },
+    {
+        "_id": "M102",
+        "name": "Week 1",
+        "description": "Designing Objects",
+        "course": "cs5010"
+    },
+    {
+        "_id": "M103",
+        "name": "Week 2",
+        "description": "Designing Related Objects",
+        "course": "cs5010"
+    },
+    {
+        "_id": "M104",
+        "name": "Week 3",
+        "description": "Models & the MVC Pattern",
+        "course": "cs5010"
+    },
+    {
+        "_id": "M201",
+        "name": "Week 0",
+        "description": "Intro",
+        "course": "cs5610"
+    },
+    {
+        "_id": "M202",
+        "name": "Week 1",
+        "description": "HTML",
+        "course": "cs5610"
+    },
+    {
+        "_id": "M203",
+        "name": "Week 2",
+        "description": "CSS",
+        "course": "cs5610"
+    },
+    {
+        "_id": "M301",
+        "name": "Week 0",
+        "description": "Getting Started",
+        "course": "cs5200"
+    },
+    {
+        "_id": "M302",
+        "name": "Week 1",
+        "description": "DATABASE SYSTEMS",
+        "course": "cs5200"
+    },
+    {
+        "_id": "M303",
+        "name": "Week 2",
+        "description": "RELATIONAL DATABASE DESIGN & NORMALIZATION",
+        "course": "cs5200"
+    },
+    {
+        "_id": "M401",
+        "name": "Week 0",
+        "description": "Welcome Module",
+        "course": "cy5010"
+    },
+    {
+        "_id": "M402",
+        "name": "Week 1",
+        "description": "Introduction",
+        "course": "cy5010"
+    },
+    {
+        "_id": "M403",
+        "name": "Week 2",
+        "description": "Cryptography",
+        "course": "cy5010"
+    },
+    {
+        "_id": "M501",
+        "name": "Week 0",
+        "description": "Recitation",
+        "course": "cs5011"
+    },
+    {
+        "_id": "M502",
+        "name": "Week 1",
+        "description": "Recitation",
+        "course": "cs5011"
+    },
+    {
+        "_id": "M503",
+        "name": "Week 2",
+        "description": "Recitation",
+        "course": "cs5011"
+    },
+    {
+        "_id": "M601",
+        "name": "Week 0",
+        "description": "1. Introduction to Data Mining",
+        "course": "cs6220"
+    },
+    {
+        "_id": "M602",
+        "name": "Week 1",
+        "description": "2. Data Exploration",
+        "course": "cs6220"
+    },
+    {
+        "_id": "M603",
+        "name": "Week 2",
+        "description": "3. Data Quality and Standardization",
+        "course": "cs6220"
+    },
+    {
+        "_id": "M701",
+        "name": "Week 0",
+        "description": "Module 0: Growth of Functions with Sorting (OPTIONAL - RECAP)",
+        "course": "cs5800"
+    },
+    {
+        "_id": "M702",
+        "name": "Week 1",
+        "description": "Module 1: Asymptotic Notation",
+        "course": "cs5800"
+    },
+    {
+        "_id": "M703",
+        "name": "Week 2",
+        "description": "Module 2: Complexity (and Computability and Cryptography)",
+        "course": "cs5800"
+    }
+]

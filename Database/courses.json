@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "cs5010",
+    "name": "CS5010—Programming Design Paradigms",
+    "number": "CS5010.BOS89.202230",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term" : "202230_2 Spring 2022 Semester Full Term Grad"
+  },
+  {
+    "_id": "cs5610",
+    "name": "CS5610—Web Development Sec 01 Fall 2023 [VTL-2-OL]",
+    "number": "CS5610.11550.202410",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term" : "202410_2 Fall 2023 Semester Full Term Grad"
+  },
+  {
+    "_id": "cs5200",
+    "name": "CS5200 12062+15080 Database Management Sys SEC 02+03 Fall 2022",
+    "number": "CS5200.MERGED.202310",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term": "202310_2 Fall 2022 Semester Full Term Grad"
+  },
+  {
+    "_id": "cy5010",
+    "name": "CY5010 38770 Foundations of Information Assurance SEC 01 Spring 2023 [VTL-2-OL]",
+    "number": "CY5010.38770.202330",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term": "202330_2 Spring 2023 Semester Full Term Grad"
+  },
+  {
+    "_id": "cs5011",
+    "name": "CS5011 38901 Recitation For CS 5010 SEC 06 Spring 2022 [BOS-2-TR]",
+    "number": "CS5011.38901.202230",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term": "202230_2 Spring 2022 Semester Full Term Grad"
+  },
+  {
+    "_id": "cs6220",
+    "name": "CS6220 38929 Data Mining Techniques SEC 03 Spring 2023 [VTL-2-OL]",
+    "number": "CS6220.38929.202330",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term": "202330_2 Spring 2023 Semester Full Term Grad"
+  },
+  {
+    "_id": "cs5800",
+    "name": "CS5800 19719+20941 Algorithms SEC 04+14 Fall 2022 [VTL-2-OL]",
+    "number": "CS5800.MERGED.202310",
+    "startDate": "2023-09-07",
+    "endDate": "2023-12-15",
+    "term": "202310_2 Fall 2022 Semester Full Term Grad"
+  }
+]

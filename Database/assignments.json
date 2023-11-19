@@ -1,0 +1,214 @@
+[
+    {
+        "_id": "A101",
+        "title": "A1 - Getting Started with an IDE",
+        "course": "cs5010",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-26"
+    },
+    {
+        "_id": "A102",
+        "title": "A2 - Stevenson Shelters (General 1 of 3)",
+        "course": "cs5010",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-30"
+    },
+    {
+        "_id": "A103",
+        "title": "A3 - Automatic Transmissions (General 2 of 3)",
+        "course": "cs5010",
+        "start": "2022-10-01",
+        "end": "2022-10-08",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-08"
+    },
+    {
+        "_id": "B101",
+        "title": "A1 - SET UP",
+        "course": "cs5610",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-26"
+    },
+    {
+        "_id": "B102",
+        "title": "A2 - HTML",
+        "course": "cs5610",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-30"
+    },
+    {
+        "_id": "B103",
+        "title": "A3 - CSS",
+        "course": "cs5610",
+        "start": "2022-10-01",
+        "end": "2022-10-08",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-08"
+    },
+    {
+        "_id": "C101",
+        "title": "A1 - DO: Build Hierarchical Document Database",
+        "course": "cs5200",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due":"2022-09-26"
+    },
+    {
+        "_id": "C102",
+        "title": "A2 - DO: Build a Conceptual Data Model",
+        "course": "cs5200",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-30"
+    },
+    {
+        "_id": "C103",
+        "title": "A3 - DO: Normalize a Schema",
+        "course": "cs5200",
+        "start": "2022-10-01",
+        "end": "2022-10-28",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-28"
+    },
+    {
+        "_id": "D101",
+        "title": "A1 - Lab 1: Lab environment secure configuration (LABTEST)",
+        "course": "cy5010",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-26"
+    },
+    {
+        "_id": "D102",
+        "title": "A2 - Lab 2: Cryptography Lab",
+        "course": "cy5010",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due":"2022-09-30"
+    },
+    {
+        "_id": "D103",
+        "title": "A3 - Lab 3: Password Cracking",
+        "course": "cy5010",
+        "start": "2022-10-01",
+        "end": "2022-10-28",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-28"
+    },
+    {
+        "_id": "E101",
+        "title": "A1 - SET UP",
+        "course": "cs5011",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-26"
+    },
+    {
+        "_id": "E102",
+        "title": "A2 - Lab",
+        "course": "cs5011",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-30"
+    },
+    {
+        "_id": "E103",
+        "title": "A3 - Lab",
+        "course": "cs5011",
+        "start": "2022-10-01",
+        "end": "2022-10-28",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-28"
+    },
+    {
+        "_id": "F101",
+        "title": "Assignment 1",
+        "course": "cs6220",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-26"
+    },
+    {
+        "_id": "F102",
+        "title": "Assignment 2",
+        "course": "cs6220",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-30"
+    },
+    {
+        "_id": "F103",
+        "title": "Assignment 3",
+        "course": "cs6220",
+        "start": "2022-10-01",
+        "end": "2022-10-28",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-28"
+    },
+    {
+        "_id": "G101",
+        "title": "Assignment 1",
+        "course": "cs5800",
+        "start": "2022-09-18",
+        "end": "2022-09-26",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-26"
+    },
+    {
+        "_id": "G102",
+        "title": "Assignment 2",
+        "course": "cs5800",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-09-30"
+    },
+    {
+        "_id": "G103",
+        "title": "Assignment 3",
+        "course": "cs5800",
+        "start": "2022-10-01",
+        "end": "2022-10-28",
+        "points": "100",
+        "description": "This a description of this course",
+        "due": "2022-10-28"
+    }
+    
+    
+]
